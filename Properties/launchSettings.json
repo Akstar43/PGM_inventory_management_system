@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InventoryApp": {
+      "commandName": "Project",
+      "dotnetRunMessages": true
+    }
+  }
+}
